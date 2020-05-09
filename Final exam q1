@@ -1,0 +1,12 @@
+public class Main{
+public static void main(String[] args) { 
+        float a  = 123.4f; 
+        int b = 0100;
+        double d = 3.3586; 
+        String c = "Hello"; 
+        System.out.println(a); 
+        System.out.println(b); 
+        System.out.println(c); 
+        System.out.println(d); 
+    } 
+}
